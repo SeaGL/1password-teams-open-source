@@ -2077,8 +2077,10 @@ https://blueberrymc.net
 Web Scrobbler is a browser extension created for people who listen to music online through their browser, and would like to keep an updated playback history using scrobbling services, such as Last.fm, Libre.fm and ListenBrainz.
 https://web-scrobbler.com/
 
-### SeaGL - Seattle GNU Linux Conference
-Founded in 2013, SeaGL (the Seattle GNU/Linux Conference) is a free—as in freedom and tea—grassroots technical summit dedicated to spreading awareness and knowledge about free / libre / open source software, hardware, and culture.
+### action-slack
+action-slack is a product that notifies Slack from GitHub Actions.
+https://action-slack.netlify.app/
 
-SeaGL strives to be welcoming, enjoyable, and informative for professional technologists, newcomers, enthusiasts, and all other users of free software, regardless of their background knowledge; providing a space to bridge these experiences and strengthen the free software movement through mentorship, collaboration, and community.
+### SeaGL - Seattle GNU Linux Conference
+Founded in 2013, SeaGL (the Seattle GNU/Linux Conference) is a free—as in freedom and tea—grassroots technical summit dedicated to spreading awareness and knowledge about free / libre / open source software, hardware, and culture. SeaGL strives to be welcoming, enjoyable, and informative for professional technologists, newcomers, enthusiasts, and all other users of free software, regardless of their background knowledge; providing a space to bridge these experiences and strengthen the free software movement through mentorship, collaboration, and community.
 https://seagl.org/
